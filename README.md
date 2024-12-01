@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Mayank1Coder
 - 👀 I’m interested in Computer Application
-- 🌱 I’m currently learning BackEnd
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I have currently learned BackEnd
+- 💞️ I’m looking to collaborate on my life
 - 📫 How to reach me mayankbasena49@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: I am batman
 - ⚡ Fun fact: I am only 12
 
 <!---
